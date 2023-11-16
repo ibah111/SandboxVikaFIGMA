@@ -1,0 +1,1 @@
+export { TypeSecondWrapper } from "./TypeSecondWrapper";

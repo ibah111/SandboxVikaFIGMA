@@ -1,0 +1,511 @@
+.desktop {
+  background-color: #cfcaca;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.desktop .div-2 {
+  background-color: #cfcaca;
+  height: 2500px;
+  overflow: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.desktop .div-3 {
+  height: 2334px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1925px;
+}
+
+.desktop .overlap-wrapper {
+  height: 598px;
+  left: 293px;
+  position: absolute;
+  top: 207px;
+  width: 1202px;
+}
+
+.desktop .overlap {
+  height: 598px;
+  position: relative;
+}
+
+.desktop .home {
+  height: 598px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1202px;
+}
+
+.desktop .gleb {
+  height: 598px;
+  left: 570px;
+  position: absolute;
+  top: 0;
+  width: 632px;
+}
+
+.desktop .ellipse {
+  border: 67px solid;
+  border-color: var(--blu);
+  border-radius: 287.5px/298.67px;
+  box-shadow: 0px 0px 152px #00c3f06b;
+  height: 597px;
+  left: 57px;
+  position: absolute;
+  top: 0;
+  width: 575px;
+}
+
+.desktop .group-4 {
+  height: 494px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 572px;
+}
+
+.desktop .div-wrapper {
+  background: linear-gradient(180deg, rgb(64.81, 64.81, 64.81) 0%, rgb(44.62, 44.62, 44.62) 100%);
+  border-radius: 45px/46.75px;
+  height: 93px;
+  left: 76px;
+  position: absolute;
+  top: 33px;
+  width: 90px;
+}
+
+.desktop .text-wrapper-6 {
+  color: #00c4f0;
+  font-family: "NEXT ART-Bold", Helvetica;
+  font-size: 36px;
+  font-weight: 700;
+  height: 43px;
+  left: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 25px;
+  white-space: nowrap;
+  width: 49px;
+}
+
+.desktop .overlap-group-3 {
+  background-image: url(https://c.animaapp.com/M1WYoM5H/img/ellipse-3.svg);
+  background-size: 100% 100%;
+  height: 93px;
+  left: 0;
+  position: absolute;
+  top: 206px;
+  width: 90px;
+}
+
+.desktop .text-wrapper-7 {
+  color: #00c4f0;
+  font-family: "NEXT ART-Bold", Helvetica;
+  font-size: 36px;
+  font-weight: 700;
+  height: 43px;
+  left: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 26px;
+  white-space: nowrap;
+  width: 36px;
+}
+
+.desktop .overlap-2 {
+  background: linear-gradient(180deg, rgb(64.81, 64.81, 64.81) 0%, rgb(44.62, 44.62, 44.62) 100%);
+  border-radius: 45px/46.75px;
+  height: 93px;
+  left: 474px;
+  position: absolute;
+  top: 0;
+  width: 90px;
+}
+
+.desktop .text-wrapper-8 {
+  color: #00c4f0;
+  font-family: "NEXT ART-Bold", Helvetica;
+  font-size: 36px;
+  font-weight: 700;
+  height: 43px;
+  left: 27px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 26px;
+  white-space: nowrap;
+  width: 37px;
+}
+
+.desktop .overlap-3 {
+  background: linear-gradient(180deg, rgb(64.81, 64.81, 64.81) 0%, rgb(44.62, 44.62, 44.62) 100%);
+  border-radius: 45px/46.75px;
+  height: 93px;
+  left: 31px;
+  position: absolute;
+  top: 401px;
+  width: 90px;
+}
+
+.desktop .text-wrapper-9 {
+  color: #00c4f0;
+  font-family: "NEXT ART-Bold", Helvetica;
+  font-size: 36px;
+  font-weight: 700;
+  height: 43px;
+  left: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 26px;
+  white-space: nowrap;
+  width: 47px;
+}
+
+.desktop .title {
+  height: 392px;
+  left: 0;
+  position: absolute;
+  top: 58px;
+  width: 453px;
+}
+
+.desktop .text-wrapper-10 {
+  -webkit-text-stroke: 1px #000000;
+  color: var(--text);
+  font-family: "NEXT ART-SemiBold", Helvetica;
+  font-size: 48px;
+  font-weight: 600;
+  height: 41px;
+  left: -1px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+  width: 205px;
+}
+
+.desktop .text-wrapper-11 {
+  -webkit-text-stroke: 1px #000000;
+  color: var(--text);
+  font-family: "NEXT ART-Bold", Helvetica;
+  font-size: 72px;
+  font-weight: 700;
+  height: 141px;
+  left: -1px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 68px;
+  width: 447px;
+}
+
+.desktop .p {
+  -webkit-text-stroke: 1px #000000;
+  color: var(--text);
+  font-family: "Arodora Pro-Light", Helvetica;
+  font-size: 18px;
+  font-weight: 300;
+  height: 77px;
+  left: -1px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 237px;
+  width: 430px;
+}
+
+.desktop .button-8 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 343px !important;
+}
+
+.desktop .element-5 {
+  height: 415px;
+  left: 697px;
+  object-fit: cover;
+  position: absolute;
+  top: 71px;
+  width: 397px;
+}
+
+.desktop .bg {
+  height: 359px;
+  left: 0;
+  position: absolute;
+  top: 881px;
+  width: 1920px;
+}
+
+.desktop .bg-2 {
+  height: 131px;
+  left: 3px;
+  position: absolute;
+  top: 0;
+  width: 1917px;
+}
+
+.desktop .overlap-4 {
+  height: 969px;
+  left: 318px;
+  position: absolute;
+  top: 1365px;
+  width: 1284px;
+}
+
+.desktop .ellips {
+  height: 969px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1224px;
+}
+
+.desktop .overlap-5 {
+  height: 969px;
+  position: relative;
+}
+
+.desktop .overlap-group-4 {
+  height: 925px;
+  left: 0;
+  position: absolute;
+  top: 44px;
+  width: 1223px;
+}
+
+.desktop .ellipse-2 {
+  border: 89px solid;
+  border-color: #fffdfd;
+  border-radius: 396px/399.25px;
+  box-shadow: 0px 4px 70px #ffffff40;
+  height: 799px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 792px;
+}
+
+.desktop .ellipse-3 {
+  border: 55px solid;
+  border-color: #1c1a1a;
+  border-radius: 243px/245px;
+  box-shadow: 0px 4px 70px #00c1ec40;
+  height: 490px;
+  left: 737px;
+  position: absolute;
+  top: 435px;
+  width: 486px;
+}
+
+.desktop .ellipse-4 {
+  border: 34px solid;
+  border-color: #e2a200;
+  border-radius: 178px/179.46px;
+  box-shadow: 0px 4px 70px #e2a10040;
+  height: 359px;
+  left: 868px;
+  position: absolute;
+  top: 0;
+  width: 356px;
+}
+
+.desktop .overlap-group-wrapper {
+  height: 894px;
+  left: 195px;
+  position: absolute;
+  top: 12px;
+  width: 1089px;
+}
+
+.desktop .overlap-6 {
+  background-image: url(https://c.animaapp.com/M1WYoM5H/img/bg.png);
+  background-size: 100% 100%;
+  height: 1004px;
+  left: -55px;
+  position: relative;
+  top: -51px;
+  width: 1199px;
+}
+
+.desktop .photo {
+  height: 429px;
+  left: 822px;
+  object-fit: cover;
+  position: absolute;
+  top: 275px;
+  width: 299px;
+}
+
+.desktop .element-wrapper {
+  height: 313px;
+  left: 84px;
+  position: absolute;
+  top: 79px;
+  width: 272px;
+}
+
+.desktop .element-tcpaqauy {
+  height: 325px;
+  left: -6px;
+  object-fit: cover;
+  position: absolute;
+  top: -6px;
+  width: 284px;
+}
+
+.desktop .photo-wrapper {
+  height: 286px;
+  left: 106px;
+  position: absolute;
+  top: 630px;
+  width: 250px;
+}
+
+.desktop .photo-2 {
+  height: 298px;
+  left: -6px;
+  object-fit: cover;
+  position: absolute;
+  top: -6px;
+  width: 262px;
+}
+
+.desktop .text-wrapper-12 {
+  color: #fffdfd;
+  font-family: "NEXT ART-Regular", Helvetica;
+  font-size: 48px;
+  font-weight: 400;
+  height: 53px;
+  left: 547px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 54px;
+  white-space: nowrap;
+  width: 221px;
+}
+
+.desktop .header {
+  background-color: transparent;
+  height: 100px;
+  left: 508px;
+  position: absolute;
+  top: 13px;
+  width: 1378px;
+}
+
+.desktop .frame-3 {
+  align-items: center;
+  display: flex;
+  gap: 24px;
+  height: 36px;
+  left: 359px;
+  position: absolute;
+  top: 12px;
+  width: 177px;
+}
+
+.desktop .big-button-instance {
+  flex: 0 0 auto !important;
+}
+
+.desktop .big-button-2 {
+  color: #000000 !important;
+  font-family: "ABeeZee", Helvetica !important;
+  font-size: 17px !important;
+  font-style: unset !important;
+  font-weight: 400 !important;
+  letter-spacing: 0.68px !important;
+  line-height: 20px !important;
+}
+
+.desktop .big-button-3 {
+  flex: 0 0 auto !important;
+  margin-right: -11px !important;
+}
+
+.desktop .LOGO {
+  height: 60px;
+  left: 24px;
+  position: absolute;
+  top: 12px;
+  width: 273px;
+}
+
+.desktop .overlap-group-5 {
+  height: 60px;
+  position: relative;
+  width: 269px;
+}
+
+.desktop .torilla {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 1.28px;
+  line-height: 20px;
+  position: absolute;
+  top: 0;
+  width: 269px;
+}
+
+.desktop .span {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  letter-spacing: 1.28px;
+  line-height: 20px;
+}
+
+.desktop .text-wrapper-13 {
+  font-size: 17px;
+  letter-spacing: 0.68px;
+}
+
+.desktop .design {
+  -webkit-text-stroke: 1px #0000001a;
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  left: 115px;
+  letter-spacing: 1.7px;
+  line-height: 20px;
+  position: absolute;
+  top: 29px;
+  white-space: nowrap;
+}
+
+.desktop .adaptivity-desktop-wrapper {
+  background-color: transparent;
+  border: 1px dashed;
+  border-color: #9747ff;
+  border-radius: 5px;
+  height: 166px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 2334px;
+  width: 1920px;
+}
+
+.desktop .footer-instance {
+  left: 20px !important;
+  position: relative !important;
+  top: 13px !important;
+}

@@ -1,0 +1,1067 @@
+.type-second-wrapper {
+  align-items: center;
+  display: inline-flex;
+  justify-content: center;
+  position: relative;
+}
+
+.type-second-wrapper .button-4 {
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.type-second-wrapper .button-5 {
+  position: relative;
+}
+
+.type-second-wrapper .union-3 {
+  height: 11px;
+  position: absolute;
+  width: 6px;
+}
+
+.type-second-wrapper .element-3 {
+  position: relative;
+}
+
+.type-second-wrapper .text-wrapper-2 {
+  color: var(--white);
+  font-family: var(--mobile-label-font-family);
+  font-size: var(--mobile-label-font-size);
+  font-style: var(--mobile-label-font-style);
+  font-weight: var(--mobile-label-font-weight);
+  letter-spacing: var(--mobile-label-letter-spacing);
+  line-height: var(--mobile-label-line-height);
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.type-second-wrapper .union-4 {
+  height: 6px;
+  position: absolute;
+  width: 11px;
+}
+
+.type-second-wrapper .button-6 {
+  position: relative;
+}
+
+.type-second-wrapper .union-5 {
+  height: 6px;
+  position: absolute;
+  transform: rotate(-90deg);
+  width: 11px;
+}
+
+.type-second-wrapper .element-4 {
+  color: var(--first);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.type-second-wrapper .icon-down {
+  position: relative;
+}
+
+.type-second-wrapper .union-6 {
+  height: 6px;
+  position: absolute;
+  width: 11px;
+}
+
+.type-second-wrapper.type-4-five {
+  gap: 5px;
+}
+
+.type-second-wrapper.state-4-hover {
+  opacity: 0.6;
+}
+
+.type-second-wrapper.type-4-first {
+  background-color: var(--first);
+  border: 1px solid;
+  border-color: var(--first);
+}
+
+.type-second-wrapper.type-4-fouth {
+  gap: 5px;
+}
+
+.type-second-wrapper.type-4-second {
+  border: 1px solid;
+  border-color: var(--first);
+}
+
+.type-second-wrapper.state-4-disable {
+  opacity: 0.3;
+}
+
+.type-second-wrapper.counter-0-off.type-4-second {
+  padding: 8px 12px;
+}
+
+.type-second-wrapper.adaptivity-8-mobile.type-4-second {
+  gap: 4px;
+}
+
+.type-second-wrapper.adaptivity-8-desktop.type-4-second {
+  gap: 8px;
+  padding: 8px 12px;
+}
+
+.type-second-wrapper.adaptivity-8-desktop.type-4-first {
+  padding: 8px 12px;
+}
+
+.type-second-wrapper.type-4-third.counter-0-off {
+  gap: 5px;
+}
+
+.type-second-wrapper.type-4-first.counter-0-off {
+  padding: 8px 12px;
+}
+
+.type-second-wrapper.adaptivity-8-mobile.type-4-first {
+  gap: 4px;
+}
+
+.type-second-wrapper.adaptivity-8-desktop.type-4-five {
+  padding: 8px 0px;
+}
+
+.type-second-wrapper.type-4-third.adaptivity-8-desktop {
+  gap: 5px;
+  padding: 8px 0px;
+}
+
+.type-second-wrapper.type-4-first.counter-0-on {
+  gap: 4px;
+}
+
+.type-second-wrapper.type-4-fouth.adaptivity-8-desktop {
+  padding: 8px 0px;
+}
+
+.type-second-wrapper.adaptivity-8-mobile.type-4-first.counter-0-on {
+  padding: 8px 8px 8px 12px;
+}
+
+.type-second-wrapper.adaptivity-8-desktop.type-4-first.counter-0-off {
+  gap: 8px;
+}
+
+.type-second-wrapper.adaptivity-8-mobile.type-4-third.counter-0-on {
+  gap: 4px;
+}
+
+.type-second-wrapper.adaptivity-8-mobile.counter-0-on.type-4-second {
+  padding: 8px 8px 8px 12px;
+}
+
+.type-second-wrapper.type-4-five .button-4 {
+  color: var(--first);
+}
+
+.type-second-wrapper.type-4-first .button-4 {
+  color: var(--white);
+}
+
+.type-second-wrapper.type-4-fouth .button-4 {
+  color: var(--first);
+}
+
+.type-second-wrapper.type-4-second .button-4 {
+  color: var(--first);
+}
+
+.type-second-wrapper.type-4-third .button-4 {
+  color: var(--first);
+}
+
+.type-second-wrapper.adaptivity-8-mobile.state-4-disable .button-4 {
+  font-family: var(--mobile-label-font-family);
+  font-size: var(--mobile-label-font-size);
+  font-style: var(--mobile-label-font-style);
+  font-weight: var(--mobile-label-font-weight);
+  letter-spacing: var(--mobile-label-letter-spacing);
+  line-height: var(--mobile-label-line-height);
+}
+
+.type-second-wrapper.adaptivity-8-desktop.state-4-disable .button-4 {
+  font-family: var(--desktop-label-font-family);
+  font-size: var(--desktop-label-font-size);
+  font-style: var(--desktop-label-font-style);
+  font-weight: var(--desktop-label-font-weight);
+  letter-spacing: var(--desktop-label-letter-spacing);
+  line-height: var(--desktop-label-line-height);
+}
+
+.type-second-wrapper.adaptivity-8-desktop.state-4-default .button-4 {
+  font-family: var(--desktop-label-font-family);
+  font-size: var(--desktop-label-font-size);
+  font-style: var(--desktop-label-font-style);
+  font-weight: var(--desktop-label-font-weight);
+  letter-spacing: var(--desktop-label-letter-spacing);
+  line-height: var(--desktop-label-line-height);
+}
+
+.type-second-wrapper.adaptivity-8-mobile.state-4-active .button-4 {
+  font-family: var(--mobile-labelactive-font-family);
+  font-size: var(--mobile-labelactive-font-size);
+  font-style: var(--mobile-labelactive-font-style);
+  font-weight: var(--mobile-labelactive-font-weight);
+  letter-spacing: var(--mobile-labelactive-letter-spacing);
+  line-height: var(--mobile-labelactive-line-height);
+}
+
+.type-second-wrapper.adaptivity-8-desktop.state-4-active .button-4 {
+  font-family: var(--desktop-labelbold-font-family);
+  font-size: var(--desktop-labelbold-font-size);
+  font-style: var(--desktop-labelbold-font-style);
+  font-weight: var(--desktop-labelbold-font-weight);
+  letter-spacing: var(--desktop-labelbold-letter-spacing);
+  line-height: var(--desktop-labelbold-line-height);
+}
+
+.type-second-wrapper.adaptivity-8-mobile.state-4-default .button-4 {
+  font-family: var(--mobile-label-font-family);
+  font-size: var(--mobile-label-font-size);
+  font-style: var(--mobile-label-font-style);
+  font-weight: var(--mobile-label-font-weight);
+  letter-spacing: var(--mobile-label-letter-spacing);
+  line-height: var(--mobile-label-line-height);
+}
+
+.type-second-wrapper.adaptivity-8-mobile.state-4-hover .button-4 {
+  font-family: var(--mobile-label-font-family);
+  font-size: var(--mobile-label-font-size);
+  font-style: var(--mobile-label-font-style);
+  font-weight: var(--mobile-label-font-weight);
+  letter-spacing: var(--mobile-label-letter-spacing);
+  line-height: var(--mobile-label-line-height);
+}
+
+.type-second-wrapper.adaptivity-8-desktop.state-4-hover .button-4 {
+  font-family: var(--desktop-label-font-family);
+  font-size: var(--desktop-label-font-size);
+  font-style: var(--desktop-label-font-style);
+  font-weight: var(--desktop-label-font-weight);
+  letter-spacing: var(--desktop-label-letter-spacing);
+  line-height: var(--desktop-label-line-height);
+}
+
+.type-second-wrapper.type-4-first .button-5 {
+  color: var(--white);
+  margin-top: -1px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.type-second-wrapper.type-4-fouth .button-5 {
+  color: var(--first);
+  margin-top: -1px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.type-second-wrapper.type-4-second .button-5 {
+  color: var(--first);
+  margin-top: -1px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.type-second-wrapper.type-4-third .button-5 {
+  color: var(--first);
+  margin-top: -1px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.type-second-wrapper.adaptivity-8-desktop.type-4-five .button-5 {
+  height: 20px;
+  width: 20px;
+}
+
+.type-second-wrapper.adaptivity-8-mobile.type-4-five .button-5 {
+  height: 16px;
+  width: 16px;
+}
+
+.type-second-wrapper.type-4-fouth.adaptivity-8-desktop.state-4-default .button-5 {
+  font-family: var(--desktop-label-font-family);
+  font-size: var(--desktop-label-font-size);
+  font-style: var(--desktop-label-font-style);
+  font-weight: var(--desktop-label-font-weight);
+  letter-spacing: var(--desktop-label-letter-spacing);
+  line-height: var(--desktop-label-line-height);
+}
+
+.type-second-wrapper.adaptivity-8-mobile.type-4-fouth.state-4-active .button-5 {
+  font-family: var(--mobile-labelactive-font-family);
+  font-size: var(--mobile-labelactive-font-size);
+  font-style: var(--mobile-labelactive-font-style);
+  font-weight: var(--mobile-labelactive-font-weight);
+  letter-spacing: var(--mobile-labelactive-letter-spacing);
+  line-height: var(--mobile-labelactive-line-height);
+}
+
+.type-second-wrapper.adaptivity-8-mobile.type-4-first.state-4-disable .button-5 {
+  font-family: var(--mobile-label-font-family);
+  font-size: var(--mobile-label-font-size);
+  font-style: var(--mobile-label-font-style);
+  font-weight: var(--mobile-label-font-weight);
+  letter-spacing: var(--mobile-label-letter-spacing);
+  line-height: var(--mobile-label-line-height);
+}
+
+.type-second-wrapper.type-4-fouth.adaptivity-8-desktop.state-4-active .button-5 {
+  font-family: var(--desktop-labelbold-font-family);
+  font-size: var(--desktop-labelbold-font-size);
+  font-style: var(--desktop-labelbold-font-style);
+  font-weight: var(--desktop-labelbold-font-weight);
+  letter-spacing: var(--desktop-labelbold-letter-spacing);
+  line-height: var(--desktop-labelbold-line-height);
+}
+
+.type-second-wrapper.adaptivity-8-mobile.type-4-fouth.state-4-default .button-5 {
+  font-family: var(--mobile-label-font-family);
+  font-size: var(--mobile-label-font-size);
+  font-style: var(--mobile-label-font-style);
+  font-weight: var(--mobile-label-font-weight);
+  letter-spacing: var(--mobile-label-letter-spacing);
+  line-height: var(--mobile-label-line-height);
+}
+
+.type-second-wrapper.adaptivity-8-mobile.type-4-fouth.state-4-disable .button-5 {
+  font-family: var(--mobile-label-font-family);
+  font-size: var(--mobile-label-font-size);
+  font-style: var(--mobile-label-font-style);
+  font-weight: var(--mobile-label-font-weight);
+  letter-spacing: var(--mobile-label-letter-spacing);
+  line-height: var(--mobile-label-line-height);
+}
+
+.type-second-wrapper.type-4-third.adaptivity-8-desktop.state-4-disable .button-5 {
+  font-family: var(--desktop-label-font-family);
+  font-size: var(--desktop-label-font-size);
+  font-style: var(--desktop-label-font-style);
+  font-weight: var(--desktop-label-font-weight);
+  letter-spacing: var(--desktop-label-letter-spacing);
+  line-height: var(--desktop-label-line-height);
+}
+
+.type-second-wrapper.adaptivity-8-desktop.type-4-first.state-4-disable .button-5 {
+  font-family: var(--desktop-label-font-family);
+  font-size: var(--desktop-label-font-size);
+  font-style: var(--desktop-label-font-style);
+  font-weight: var(--desktop-label-font-weight);
+  letter-spacing: var(--desktop-label-letter-spacing);
+  line-height: var(--desktop-label-line-height);
+}
+
+.type-second-wrapper.adaptivity-8-desktop.type-4-first.state-4-default .button-5 {
+  font-family: var(--desktop-label-font-family);
+  font-size: var(--desktop-label-font-size);
+  font-style: var(--desktop-label-font-style);
+  font-weight: var(--desktop-label-font-weight);
+  letter-spacing: var(--desktop-label-letter-spacing);
+  line-height: var(--desktop-label-line-height);
+}
+
+.type-second-wrapper.adaptivity-8-mobile.type-4-first.state-4-active .button-5 {
+  font-family: var(--mobile-labelactive-font-family);
+  font-size: var(--mobile-labelactive-font-size);
+  font-style: var(--mobile-labelactive-font-style);
+  font-weight: var(--mobile-labelactive-font-weight);
+  letter-spacing: var(--mobile-labelactive-letter-spacing);
+  line-height: var(--mobile-labelactive-line-height);
+}
+
+.type-second-wrapper.type-4-fouth.adaptivity-8-desktop.state-4-disable .button-5 {
+  font-family: var(--desktop-label-font-family);
+  font-size: var(--desktop-label-font-size);
+  font-style: var(--desktop-label-font-style);
+  font-weight: var(--desktop-label-font-weight);
+  letter-spacing: var(--desktop-label-letter-spacing);
+  line-height: var(--desktop-label-line-height);
+}
+
+.type-second-wrapper.adaptivity-8-mobile.type-4-third.state-4-disable .button-5 {
+  font-family: var(--mobile-label-font-family);
+  font-size: var(--mobile-label-font-size);
+  font-style: var(--mobile-label-font-style);
+  font-weight: var(--mobile-label-font-weight);
+  letter-spacing: var(--mobile-label-letter-spacing);
+  line-height: var(--mobile-label-line-height);
+}
+
+.type-second-wrapper.type-4-third.adaptivity-8-desktop.state-4-active .button-5 {
+  font-family: var(--desktop-labelbold-font-family);
+  font-size: var(--desktop-labelbold-font-size);
+  font-style: var(--desktop-labelbold-font-style);
+  font-weight: var(--desktop-labelbold-font-weight);
+  letter-spacing: var(--desktop-labelbold-letter-spacing);
+  line-height: var(--desktop-labelbold-line-height);
+}
+
+.type-second-wrapper.adaptivity-8-mobile.type-4-first.state-4-default .button-5 {
+  font-family: var(--mobile-label-font-family);
+  font-size: var(--mobile-label-font-size);
+  font-style: var(--mobile-label-font-style);
+  font-weight: var(--mobile-label-font-weight);
+  letter-spacing: var(--mobile-label-letter-spacing);
+  line-height: var(--mobile-label-line-height);
+}
+
+.type-second-wrapper.adaptivity-8-desktop.type-4-first.state-4-active .button-5 {
+  font-family: var(--desktop-labelbold-font-family);
+  font-size: var(--desktop-labelbold-font-size);
+  font-style: var(--desktop-labelbold-font-style);
+  font-weight: var(--desktop-labelbold-font-weight);
+  letter-spacing: var(--desktop-labelbold-letter-spacing);
+  line-height: var(--desktop-labelbold-line-height);
+}
+
+.type-second-wrapper.adaptivity-8-mobile.type-4-third.state-4-default .button-5 {
+  font-family: var(--mobile-label-font-family);
+  font-size: var(--mobile-label-font-size);
+  font-style: var(--mobile-label-font-style);
+  font-weight: var(--mobile-label-font-weight);
+  letter-spacing: var(--mobile-label-letter-spacing);
+  line-height: var(--mobile-label-line-height);
+}
+
+.type-second-wrapper.type-4-third.adaptivity-8-desktop.state-4-default .button-5 {
+  font-family: var(--desktop-label-font-family);
+  font-size: var(--desktop-label-font-size);
+  font-style: var(--desktop-label-font-style);
+  font-weight: var(--desktop-label-font-weight);
+  letter-spacing: var(--desktop-label-letter-spacing);
+  line-height: var(--desktop-label-line-height);
+}
+
+.type-second-wrapper.adaptivity-8-mobile.state-4-hover.type-4-first .button-5 {
+  font-family: var(--mobile-label-font-family);
+  font-size: var(--mobile-label-font-size);
+  font-style: var(--mobile-label-font-style);
+  font-weight: var(--mobile-label-font-weight);
+  letter-spacing: var(--mobile-label-letter-spacing);
+  line-height: var(--mobile-label-line-height);
+}
+
+.type-second-wrapper.adaptivity-8-mobile.type-4-third.state-4-active .button-5 {
+  font-family: var(--mobile-labelactive-font-family);
+  font-size: var(--mobile-labelactive-font-size);
+  font-style: var(--mobile-labelactive-font-style);
+  font-weight: var(--mobile-labelactive-font-weight);
+  letter-spacing: var(--mobile-labelactive-letter-spacing);
+  line-height: var(--mobile-labelactive-line-height);
+}
+
+.type-second-wrapper.type-4-third.adaptivity-8-desktop.state-4-hover .button-5 {
+  font-family: var(--desktop-label-font-family);
+  font-size: var(--desktop-label-font-size);
+  font-style: var(--desktop-label-font-style);
+  font-weight: var(--desktop-label-font-weight);
+  letter-spacing: var(--desktop-label-letter-spacing);
+  line-height: var(--desktop-label-line-height);
+}
+
+.type-second-wrapper.adaptivity-8-desktop.type-4-first.state-4-hover .button-5 {
+  font-family: var(--desktop-label-font-family);
+  font-size: var(--desktop-label-font-size);
+  font-style: var(--desktop-label-font-style);
+  font-weight: var(--desktop-label-font-weight);
+  letter-spacing: var(--desktop-label-letter-spacing);
+  line-height: var(--desktop-label-line-height);
+}
+
+.type-second-wrapper.adaptivity-8-desktop.state-4-active.type-4-second .button-5 {
+  font-family: var(--desktop-labelbold-font-family);
+  font-size: var(--desktop-labelbold-font-size);
+  font-style: var(--desktop-labelbold-font-style);
+  font-weight: var(--desktop-labelbold-font-weight);
+  letter-spacing: var(--desktop-labelbold-letter-spacing);
+  line-height: var(--desktop-labelbold-line-height);
+}
+
+.type-second-wrapper.adaptivity-8-mobile.state-4-default.type-4-second .button-5 {
+  font-family: var(--mobile-label-font-family);
+  font-size: var(--mobile-label-font-size);
+  font-style: var(--mobile-label-font-style);
+  font-weight: var(--mobile-label-font-weight);
+  letter-spacing: var(--mobile-label-letter-spacing);
+  line-height: var(--mobile-label-line-height);
+}
+
+.type-second-wrapper.adaptivity-8-mobile.type-4-third.state-4-hover .button-5 {
+  font-family: var(--mobile-label-font-family);
+  font-size: var(--mobile-label-font-size);
+  font-style: var(--mobile-label-font-style);
+  font-weight: var(--mobile-label-font-weight);
+  letter-spacing: var(--mobile-label-letter-spacing);
+  line-height: var(--mobile-label-line-height);
+}
+
+.type-second-wrapper.adaptivity-8-desktop.state-4-disable.type-4-second .button-5 {
+  font-family: var(--desktop-label-font-family);
+  font-size: var(--desktop-label-font-size);
+  font-style: var(--desktop-label-font-style);
+  font-weight: var(--desktop-label-font-weight);
+  letter-spacing: var(--desktop-label-letter-spacing);
+  line-height: var(--desktop-label-line-height);
+}
+
+.type-second-wrapper.adaptivity-8-desktop.state-4-default.type-4-second .button-5 {
+  font-family: var(--desktop-label-font-family);
+  font-size: var(--desktop-label-font-size);
+  font-style: var(--desktop-label-font-style);
+  font-weight: var(--desktop-label-font-weight);
+  letter-spacing: var(--desktop-label-letter-spacing);
+  line-height: var(--desktop-label-line-height);
+}
+
+.type-second-wrapper.adaptivity-8-mobile.state-4-active.type-4-second .button-5 {
+  font-family: var(--mobile-labelactive-font-family);
+  font-size: var(--mobile-labelactive-font-size);
+  font-style: var(--mobile-labelactive-font-style);
+  font-weight: var(--mobile-labelactive-font-weight);
+  letter-spacing: var(--mobile-labelactive-letter-spacing);
+  line-height: var(--mobile-labelactive-line-height);
+}
+
+.type-second-wrapper.adaptivity-8-mobile.type-4-fouth.state-4-hover .button-5 {
+  font-family: var(--mobile-label-font-family);
+  font-size: var(--mobile-label-font-size);
+  font-style: var(--mobile-label-font-style);
+  font-weight: var(--mobile-label-font-weight);
+  letter-spacing: var(--mobile-label-letter-spacing);
+  line-height: var(--mobile-label-line-height);
+}
+
+.type-second-wrapper.adaptivity-8-mobile.state-4-disable.type-4-second .button-5 {
+  font-family: var(--mobile-label-font-family);
+  font-size: var(--mobile-label-font-size);
+  font-style: var(--mobile-label-font-style);
+  font-weight: var(--mobile-label-font-weight);
+  letter-spacing: var(--mobile-label-letter-spacing);
+  line-height: var(--mobile-label-line-height);
+}
+
+.type-second-wrapper.adaptivity-8-desktop.state-4-hover.type-4-second .button-5 {
+  font-family: var(--desktop-label-font-family);
+  font-size: var(--desktop-label-font-size);
+  font-style: var(--desktop-label-font-style);
+  font-weight: var(--desktop-label-font-weight);
+  letter-spacing: var(--desktop-label-letter-spacing);
+  line-height: var(--desktop-label-line-height);
+}
+
+.type-second-wrapper.type-4-fouth.adaptivity-8-desktop.state-4-hover .button-5 {
+  font-family: var(--desktop-label-font-family);
+  font-size: var(--desktop-label-font-size);
+  font-style: var(--desktop-label-font-style);
+  font-weight: var(--desktop-label-font-weight);
+  letter-spacing: var(--desktop-label-letter-spacing);
+  line-height: var(--desktop-label-line-height);
+}
+
+.type-second-wrapper.adaptivity-8-mobile.state-4-hover.type-4-second .button-5 {
+  font-family: var(--mobile-label-font-family);
+  font-size: var(--mobile-label-font-size);
+  font-style: var(--mobile-label-font-style);
+  font-weight: var(--mobile-label-font-weight);
+  letter-spacing: var(--mobile-label-letter-spacing);
+  line-height: var(--mobile-label-line-height);
+}
+
+.type-second-wrapper.adaptivity-8-desktop .union-3 {
+  left: 6px;
+  top: 5px;
+}
+
+.type-second-wrapper.adaptivity-8-mobile .union-3 {
+  left: 4px;
+  top: 3px;
+}
+
+.type-second-wrapper.type-4-five .element-3 {
+  color: var(--first);
+  margin-top: -1px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.type-second-wrapper.type-4-second .element-3 {
+  color: var(--first);
+  margin-top: -1px;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.type-second-wrapper.type-4-third .element-3 {
+  color: var(--first);
+  margin-top: -1px;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.type-second-wrapper.adaptivity-8-mobile.type-4-fouth .element-3 {
+  height: 16px;
+  width: 16px;
+}
+
+.type-second-wrapper.adaptivity-8-mobile.type-4-second .element-3 {
+  font-family: var(--mobile-label-font-family);
+  font-size: var(--mobile-label-font-size);
+  font-style: var(--mobile-label-font-style);
+  font-weight: var(--mobile-label-font-weight);
+  letter-spacing: var(--mobile-label-letter-spacing);
+  line-height: var(--mobile-label-line-height);
+}
+
+.type-second-wrapper.adaptivity-8-desktop.counter-0-on .element-3 {
+  font-family: var(--desktop-biglabel-font-family);
+  font-size: var(--desktop-biglabel-font-size);
+  font-style: var(--desktop-biglabel-font-style);
+  font-weight: var(--desktop-biglabel-font-weight);
+  letter-spacing: var(--desktop-biglabel-letter-spacing);
+  line-height: var(--desktop-biglabel-line-height);
+}
+
+.type-second-wrapper.adaptivity-8-desktop.type-4-first .element-3 {
+  color: var(--white);
+  margin-top: -1px;
+  text-align: center;
+}
+
+.type-second-wrapper.adaptivity-8-mobile.type-4-third .element-3 {
+  font-family: var(--mobile-label-font-family);
+  font-size: var(--mobile-label-font-size);
+  font-style: var(--mobile-label-font-style);
+  font-weight: var(--mobile-label-font-weight);
+  letter-spacing: var(--mobile-label-letter-spacing);
+  line-height: var(--mobile-label-line-height);
+}
+
+.type-second-wrapper.adaptivity-8-mobile.type-4-first .element-3 {
+  align-items: center;
+  background-color: var(--first);
+  border-radius: 10px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  height: 16px;
+  justify-content: center;
+}
+
+.type-second-wrapper.type-4-fouth.adaptivity-8-desktop .element-3 {
+  height: 20px;
+  width: 20px;
+}
+
+.type-second-wrapper.adaptivity-8-mobile.type-4-five.state-4-disable .element-3 {
+  font-family: var(--mobile-label-font-family);
+  font-size: var(--mobile-label-font-size);
+  font-style: var(--mobile-label-font-style);
+  font-weight: var(--mobile-label-font-weight);
+  letter-spacing: var(--mobile-label-letter-spacing);
+  line-height: var(--mobile-label-line-height);
+}
+
+.type-second-wrapper.adaptivity-8-desktop.type-4-first.state-4-active .element-3 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.type-second-wrapper.adaptivity-8-mobile.type-4-five.state-4-active .element-3 {
+  font-family: var(--mobile-labelactive-font-family);
+  font-size: var(--mobile-labelactive-font-size);
+  font-style: var(--mobile-labelactive-font-style);
+  font-weight: var(--mobile-labelactive-font-weight);
+  letter-spacing: var(--mobile-labelactive-letter-spacing);
+  line-height: var(--mobile-labelactive-line-height);
+}
+
+.type-second-wrapper.adaptivity-8-desktop.type-4-first.state-4-hover .element-3 {
+  width: 20px;
+}
+
+.type-second-wrapper.adaptivity-8-mobile.state-4-hover.type-4-five .element-3 {
+  font-family: var(--mobile-label-font-family);
+  font-size: var(--mobile-label-font-size);
+  font-style: var(--mobile-label-font-style);
+  font-weight: var(--mobile-label-font-weight);
+  letter-spacing: var(--mobile-label-letter-spacing);
+  line-height: var(--mobile-label-line-height);
+}
+
+.type-second-wrapper.adaptivity-8-desktop.type-4-first.state-4-disable .element-3 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.type-second-wrapper.adaptivity-8-desktop.type-4-first.state-4-default .element-3 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.type-second-wrapper.adaptivity-8-mobile.type-4-five.state-4-default .element-3 {
+  font-family: var(--mobile-label-font-family);
+  font-size: var(--mobile-label-font-size);
+  font-style: var(--mobile-label-font-style);
+  font-weight: var(--mobile-label-font-weight);
+  letter-spacing: var(--mobile-label-letter-spacing);
+  line-height: var(--mobile-label-line-height);
+}
+
+.type-second-wrapper.adaptivity-8-desktop.type-4-five.state-4-disable.counter-0-off .element-3 {
+  font-family: var(--desktop-label-font-family);
+  font-size: var(--desktop-label-font-size);
+  font-style: var(--desktop-label-font-style);
+  font-weight: var(--desktop-label-font-weight);
+  letter-spacing: var(--desktop-label-letter-spacing);
+  line-height: var(--desktop-label-line-height);
+}
+
+.type-second-wrapper.adaptivity-8-desktop.type-4-five.state-4-active.counter-0-off .element-3 {
+  font-family: var(--desktop-labelbold-font-family);
+  font-size: var(--desktop-labelbold-font-size);
+  font-style: var(--desktop-labelbold-font-style);
+  font-weight: var(--desktop-labelbold-font-weight);
+  letter-spacing: var(--desktop-labelbold-letter-spacing);
+  line-height: var(--desktop-labelbold-line-height);
+}
+
+.type-second-wrapper.state-4-hover.adaptivity-8-desktop.type-4-five.counter-0-off .element-3 {
+  font-family: var(--desktop-label-font-family);
+  font-size: var(--desktop-label-font-size);
+  font-style: var(--desktop-label-font-style);
+  font-weight: var(--desktop-label-font-weight);
+  letter-spacing: var(--desktop-label-letter-spacing);
+  line-height: var(--desktop-label-line-height);
+}
+
+.type-second-wrapper.adaptivity-8-desktop.type-4-five.state-4-default.counter-0-off .element-3 {
+  font-family: var(--desktop-label-font-family);
+  font-size: var(--desktop-label-font-size);
+  font-style: var(--desktop-label-font-style);
+  font-weight: var(--desktop-label-font-weight);
+  letter-spacing: var(--desktop-label-letter-spacing);
+  line-height: var(--desktop-label-line-height);
+}
+
+.type-second-wrapper.adaptivity-8-desktop .union-4 {
+  left: 5px;
+  top: 8px;
+}
+
+.type-second-wrapper.adaptivity-8-mobile .union-4 {
+  left: 3px;
+  top: 6px;
+}
+
+.type-second-wrapper.type-4-five .button-6 {
+  transform: rotate(90deg);
+}
+
+.type-second-wrapper.type-4-first .button-6 {
+  width: 20px;
+}
+
+.type-second-wrapper.type-4-fouth .button-6 {
+  color: var(--first);
+  margin-top: -1px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.type-second-wrapper.type-4-second .button-6 {
+  width: 20px;
+}
+
+.type-second-wrapper.type-4-third .button-6 {
+  width: 20px;
+}
+
+.type-second-wrapper.adaptivity-8-desktop.type-4-five .button-6 {
+  height: 20px;
+  width: 20px;
+}
+
+.type-second-wrapper.adaptivity-8-mobile.type-4-five .button-6 {
+  height: 16px;
+  width: 16px;
+}
+
+.type-second-wrapper.type-4-fouth.adaptivity-8-desktop.state-4-default .button-6 {
+  font-family: var(--desktop-label-font-family);
+  font-size: var(--desktop-label-font-size);
+  font-style: var(--desktop-label-font-style);
+  font-weight: var(--desktop-label-font-weight);
+  letter-spacing: var(--desktop-label-letter-spacing);
+  line-height: var(--desktop-label-line-height);
+}
+
+.type-second-wrapper.adaptivity-8-mobile.type-4-fouth.state-4-active .button-6 {
+  font-family: var(--mobile-labelactive-font-family);
+  font-size: var(--mobile-labelactive-font-size);
+  font-style: var(--mobile-labelactive-font-style);
+  font-weight: var(--mobile-labelactive-font-weight);
+  letter-spacing: var(--mobile-labelactive-letter-spacing);
+  line-height: var(--mobile-labelactive-line-height);
+}
+
+.type-second-wrapper.type-4-fouth.adaptivity-8-desktop.state-4-active .button-6 {
+  font-family: var(--desktop-labelbold-font-family);
+  font-size: var(--desktop-labelbold-font-size);
+  font-style: var(--desktop-labelbold-font-style);
+  font-weight: var(--desktop-labelbold-font-weight);
+  letter-spacing: var(--desktop-labelbold-letter-spacing);
+  line-height: var(--desktop-labelbold-line-height);
+}
+
+.type-second-wrapper.adaptivity-8-mobile.type-4-fouth.state-4-default .button-6 {
+  font-family: var(--mobile-label-font-family);
+  font-size: var(--mobile-label-font-size);
+  font-style: var(--mobile-label-font-style);
+  font-weight: var(--mobile-label-font-weight);
+  letter-spacing: var(--mobile-label-letter-spacing);
+  line-height: var(--mobile-label-line-height);
+}
+
+.type-second-wrapper.adaptivity-8-mobile.type-4-fouth.state-4-disable .button-6 {
+  font-family: var(--mobile-label-font-family);
+  font-size: var(--mobile-label-font-size);
+  font-style: var(--mobile-label-font-style);
+  font-weight: var(--mobile-label-font-weight);
+  letter-spacing: var(--mobile-label-letter-spacing);
+  line-height: var(--mobile-label-line-height);
+}
+
+.type-second-wrapper.type-4-fouth.adaptivity-8-desktop.state-4-disable .button-6 {
+  font-family: var(--desktop-label-font-family);
+  font-size: var(--desktop-label-font-size);
+  font-style: var(--desktop-label-font-style);
+  font-weight: var(--desktop-label-font-weight);
+  letter-spacing: var(--desktop-label-letter-spacing);
+  line-height: var(--desktop-label-line-height);
+}
+
+.type-second-wrapper.adaptivity-8-mobile.type-4-fouth.state-4-hover .button-6 {
+  font-family: var(--mobile-label-font-family);
+  font-size: var(--mobile-label-font-size);
+  font-style: var(--mobile-label-font-style);
+  font-weight: var(--mobile-label-font-weight);
+  letter-spacing: var(--mobile-label-letter-spacing);
+  line-height: var(--mobile-label-line-height);
+}
+
+.type-second-wrapper.type-4-fouth.adaptivity-8-desktop.state-4-hover .button-6 {
+  font-family: var(--desktop-label-font-family);
+  font-size: var(--desktop-label-font-size);
+  font-style: var(--desktop-label-font-style);
+  font-weight: var(--desktop-label-font-weight);
+  letter-spacing: var(--desktop-label-letter-spacing);
+  line-height: var(--desktop-label-line-height);
+}
+
+.type-second-wrapper.adaptivity-8-desktop .union-5 {
+  left: 5px;
+  top: 7px;
+}
+
+.type-second-wrapper.adaptivity-8-mobile .union-5 {
+  left: 3px;
+  top: 5px;
+}
+
+.type-second-wrapper.type-4-first .element-4 {
+  font-family: var(--mobile-label-font-family);
+  font-size: var(--mobile-label-font-size);
+  font-style: var(--mobile-label-font-style);
+  font-weight: var(--mobile-label-font-weight);
+  letter-spacing: var(--mobile-label-letter-spacing);
+  line-height: var(--mobile-label-line-height);
+}
+
+.type-second-wrapper.type-4-fouth .element-4 {
+  text-align: center;
+}
+
+.type-second-wrapper.type-4-second .element-4 {
+  font-family: var(--mobile-label-font-family);
+  font-size: var(--mobile-label-font-size);
+  font-style: var(--mobile-label-font-style);
+  font-weight: var(--mobile-label-font-weight);
+  letter-spacing: var(--mobile-label-letter-spacing);
+  line-height: var(--mobile-label-line-height);
+}
+
+.type-second-wrapper.type-4-third .element-4 {
+  font-family: var(--mobile-label-font-family);
+  font-size: var(--mobile-label-font-size);
+  font-style: var(--mobile-label-font-style);
+  font-weight: var(--mobile-label-font-weight);
+  letter-spacing: var(--mobile-label-letter-spacing);
+  line-height: var(--mobile-label-line-height);
+}
+
+.type-second-wrapper.adaptivity-8-mobile.type-4-fouth .element-4 {
+  font-family: var(--mobile-label-font-family);
+  font-size: var(--mobile-label-font-size);
+  font-style: var(--mobile-label-font-style);
+  font-weight: var(--mobile-label-font-weight);
+  letter-spacing: var(--mobile-label-letter-spacing);
+  line-height: var(--mobile-label-line-height);
+}
+
+.type-second-wrapper.adaptivity-8-mobile.state-4-disable .element-4 {
+  font-family: var(--mobile-label-font-family);
+  font-size: var(--mobile-label-font-size);
+  font-style: var(--mobile-label-font-style);
+  font-weight: var(--mobile-label-font-weight);
+  letter-spacing: var(--mobile-label-letter-spacing);
+  line-height: var(--mobile-label-line-height);
+}
+
+.type-second-wrapper.adaptivity-8-mobile.state-4-default .element-4 {
+  font-family: var(--mobile-label-font-family);
+  font-size: var(--mobile-label-font-size);
+  font-style: var(--mobile-label-font-style);
+  font-weight: var(--mobile-label-font-weight);
+  letter-spacing: var(--mobile-label-letter-spacing);
+  line-height: var(--mobile-label-line-height);
+}
+
+.type-second-wrapper.adaptivity-8-mobile.state-4-hover .element-4 {
+  font-family: var(--mobile-label-font-family);
+  font-size: var(--mobile-label-font-size);
+  font-style: var(--mobile-label-font-style);
+  font-weight: var(--mobile-label-font-weight);
+  letter-spacing: var(--mobile-label-letter-spacing);
+  line-height: var(--mobile-label-line-height);
+}
+
+.type-second-wrapper.type-4-fouth.adaptivity-8-desktop .element-4 {
+  font-family: var(--desktop-biglabel-font-family);
+  font-size: var(--desktop-biglabel-font-size);
+  font-style: var(--desktop-biglabel-font-style);
+  font-weight: var(--desktop-biglabel-font-weight);
+  letter-spacing: var(--desktop-biglabel-letter-spacing);
+  line-height: var(--desktop-biglabel-line-height);
+}
+
+.type-second-wrapper.adaptivity-8-desktop.type-4-five.state-4-disable .element-4 {
+  font-family: var(--desktop-label-font-family);
+  font-size: var(--desktop-label-font-size);
+  font-style: var(--desktop-label-font-style);
+  font-weight: var(--desktop-label-font-weight);
+  letter-spacing: var(--desktop-label-letter-spacing);
+  line-height: var(--desktop-label-line-height);
+}
+
+.type-second-wrapper.adaptivity-8-desktop.type-4-five.state-4-default .element-4 {
+  font-family: var(--desktop-label-font-family);
+  font-size: var(--desktop-label-font-size);
+  font-style: var(--desktop-label-font-style);
+  font-weight: var(--desktop-label-font-weight);
+  letter-spacing: var(--desktop-label-letter-spacing);
+  line-height: var(--desktop-label-line-height);
+}
+
+.type-second-wrapper.adaptivity-8-mobile.type-4-five.state-4-active .element-4 {
+  font-family: var(--mobile-labelactive-font-family);
+  font-size: var(--mobile-labelactive-font-size);
+  font-style: var(--mobile-labelactive-font-style);
+  font-weight: var(--mobile-labelactive-font-weight);
+  letter-spacing: var(--mobile-labelactive-letter-spacing);
+  line-height: var(--mobile-labelactive-line-height);
+}
+
+.type-second-wrapper.adaptivity-8-desktop.type-4-five.state-4-active .element-4 {
+  font-family: var(--desktop-labelbold-font-family);
+  font-size: var(--desktop-labelbold-font-size);
+  font-style: var(--desktop-labelbold-font-style);
+  font-weight: var(--desktop-labelbold-font-weight);
+  letter-spacing: var(--desktop-labelbold-letter-spacing);
+  line-height: var(--desktop-labelbold-line-height);
+}
+
+.type-second-wrapper.adaptivity-8-desktop.type-4-five.state-4-hover .element-4 {
+  font-family: var(--desktop-label-font-family);
+  font-size: var(--desktop-label-font-size);
+  font-style: var(--desktop-label-font-style);
+  font-weight: var(--desktop-label-font-weight);
+  letter-spacing: var(--desktop-label-letter-spacing);
+  line-height: var(--desktop-label-line-height);
+}
+
+.type-second-wrapper.type-4-five .icon-down {
+  color: var(--first);
+  margin-top: -1px;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.type-second-wrapper.type-4-first .icon-down {
+  width: 20px;
+}
+
+.type-second-wrapper.type-4-second .icon-down {
+  width: 20px;
+}
+
+.type-second-wrapper.type-4-third .icon-down {
+  width: 20px;
+}
+
+.type-second-wrapper.adaptivity-8-mobile.type-4-fouth .icon-down {
+  height: 16px;
+  width: 16px;
+}
+
+.type-second-wrapper.adaptivity-8-desktop.type-4-five .icon-down {
+  font-family: var(--desktop-biglabel-font-family);
+  font-size: var(--desktop-biglabel-font-size);
+  font-style: var(--desktop-biglabel-font-style);
+  font-weight: var(--desktop-biglabel-font-weight);
+  letter-spacing: var(--desktop-biglabel-letter-spacing);
+  line-height: var(--desktop-biglabel-line-height);
+}
+
+.type-second-wrapper.adaptivity-8-mobile.type-4-five .icon-down {
+  font-family: var(--mobile-label-font-family);
+  font-size: var(--mobile-label-font-size);
+  font-style: var(--mobile-label-font-style);
+  font-weight: var(--mobile-label-font-weight);
+  letter-spacing: var(--mobile-label-letter-spacing);
+  line-height: var(--mobile-label-line-height);
+}
+
+.type-second-wrapper.type-4-fouth.adaptivity-8-desktop .icon-down {
+  height: 20px;
+  width: 20px;
+}
+
+.type-second-wrapper.adaptivity-8-desktop .union-6 {
+  left: 5px;
+  top: 8px;
+}
+
+.type-second-wrapper.adaptivity-8-mobile .union-6 {
+  left: 3px;
+  top: 6px;
+}

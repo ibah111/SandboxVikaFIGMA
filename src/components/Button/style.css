@@ -1,0 +1,44 @@
+.button {
+  all: unset;
+  border: 0px none;
+  box-sizing: border-box;
+  height: 49px;
+  width: 229px;
+}
+
+.button .group {
+  height: 49px;
+  width: 231px;
+}
+
+.button .overlap-group {
+  height: 49px;
+  position: relative;
+  width: 229px;
+}
+
+.button .rectangle {
+  background: linear-gradient(180deg, rgb(226, 163, 0) 0%, rgb(226, 149.16, 0) 100%);
+  border-radius: 6px;
+  box-shadow: 0px 2px 13px #e29d007a;
+  height: 49px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 227px;
+}
+
+.button .text-wrapper {
+  color: #000000;
+  font-family: "NEXT ART-Bold", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  height: 21px;
+  left: 6px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 14px;
+  white-space: nowrap;
+  width: 223px;
+}
